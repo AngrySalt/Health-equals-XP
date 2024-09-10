@@ -1,0 +1,6 @@
+{
+  "gamerule.loseXpOnHurt": "Lose XP when damaged",
+  "gamerule.levelsPerHeart": "Levels needed to obtain 1 heart",
+  "gamerule.healthOnSpawn": "Amount of health on spawn",
+  "gamerule.maxHealth": "Maximum amount of health a player can gain"
+}
